@@ -1,0 +1,28 @@
+{
+  "name": "@clysema/meteor",
+  "version": "0.0.1",
+  "description": "[![npm (scoped)](https://img.shields.io/npm/v/@clysema/meteor.svg)](https://www.npmjs.com/package/@clysema/meteor) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@clysema/meteor.svg)](https://www.npmjs.com/package/@clysema/meteor)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Víctor Navarro <v.navarro@clysema.com> (https://www.clysema.com)",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-ws": "^4.0.1",
+    "joi": "^14.3.1",
+    "simpleddp": "^2.0.0",
+    "simpleddp-plugin-login": "^3.0.0",
+    "ws": "^6.1.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeniadevteam/clysema-meteor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingeniadevteam/clysema-meteor/issues"
+  },
+  "homepage": "https://github.com/ingeniadevteam/clysema-meteor#readme"
+}
